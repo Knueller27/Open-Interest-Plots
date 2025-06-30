@@ -3,6 +3,8 @@ Based on a specified stock ticker symbol, this code generates plots of all open 
 
 Options data is downloaded with `yfinance` and visualized for open interest of Calls and Puts by strike price and expiration date.
 
+The console output comes blank without any labels for further usage, but saving the plots generates a labeled plot that is helpful to myself, as you can see in the "plots" folder.
+
 ## Installation
 
 Needed Python modules:
